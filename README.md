@@ -1,3 +1,3 @@
 # primera-contribucion-ejemplo
-
--MelinaJimenez
+- ptroche
+- MelinaJimenez

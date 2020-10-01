@@ -1,2 +1,5 @@
 # primera-contribucion-ejemplo
-PRIMERA CONTRIBUCION MATIAS HERNAN GONZALEZ
+- MATIAS HERNAN GONZALEZ
+- ptroche
+- MelinaJimenez
+

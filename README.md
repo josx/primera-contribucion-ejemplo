@@ -1,5 +1,6 @@
 # primera-contribucion-ejemplo
 
 ## Participaciones
-
-* Gustavo Pilla
+- Gustavo Pilla
+- ptroche
+- MelinaJimenez

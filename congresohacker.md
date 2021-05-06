@@ -1,4 +1,4 @@
-# Elementos de Ingeniería de Software
+# Participación y Gestión de Proyectos de Software Libre
 
 ## Congreso de hackers en Buenos Aires (extracto)
 
